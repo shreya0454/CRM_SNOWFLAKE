@@ -1,8 +1,0 @@
-product_id,product,series,list_price,category,cost_price,is_active,launch_date
-PRD001,GTX Basic,GTX,550,Hardware,259.17,TRUE,2014-03-01
-PRD002,GTX Pro,GTX,4821,Hardware,1972.86,TRUE,2015-06-15
-PRD003,MG Special,MG,55,Software,30.38,TRUE,2013-01-10
-PRD004,MG Advanced,MG,3393,Software,1783.6,TRUE,2015-11-20
-PRD005,GTX Plus Pro,GTX,5482,Hardware,2263.35,TRUE,2016-02-28
-PRD006,GTX Plus Basic,GTX,1096,Hardware,514.75,TRUE,2015-09-01
-PRD007,GTK 500,GTK,26768,Hardware,16785.32,TRUE,2012-07-04
